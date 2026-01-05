@@ -1,11 +1,11 @@
 ## Hi, I'm Atique 👋
 
-I'm a Computer Science student at the University of Calgary with experience building full-stack applications, data pipelines, and real-time systems.
+I'm a Computer Science student at the University of Calgary with experience building data pipelines, full-stack applications and real-time systems.
 
 I enjoy working on projects that involve:
-- Backend and full-stack web development
 - Data engineering and analytics
 - Real-time data processing and system reliability
+- Backend and full-stack web development
 - Applied software used by real users
 
 ### Featured Projects
