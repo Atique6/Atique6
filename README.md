@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Atique 👋
 
-<!--
-**Atique6/Atique6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Calgary with experience building full-stack applications, data pipelines, and real-time systems.
 
-Here are some ideas to get you started:
+I enjoy working on projects that involve:
+- Backend and full-stack web development
+- Data engineering and analytics
+- Real-time data processing and system reliability
+- Applied software used by real users
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **Real-Time Data Tracking & Analytics System**  
+  Streaming data pipeline built with Apache Kafka and PostgreSQL for real-time analytics and monitoring.
+
+- **Full-Stack Web Applications**  
+  React-based applications focused on structured data workflows and user-centric design.
+
+- **Embedded & Sensor-Based Systems**  
+  Arduino-based projects translating physical sensor data into reliable software inputs.
+
+I'm always interested in learning new tools, improving system reliability, and building practical software solutions.
