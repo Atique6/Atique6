@@ -14,10 +14,10 @@ I enjoy working on projects that involve designing reliable data pipelines, proc
 - **Real-Time Data Tracking & Analytics System**  
   Streaming data pipeline built with Apache Kafka and PostgreSQL for real-time analytics, validation, and monitoring.
 
-- **Full-Stack Web Applications**  
-  React-based applications focused on structured data workflows, usability, and maintainable frontend architecture.
-
 - **Embedded & Sensor-Based Systems**  
   Arduino-based projects translating physical sensor input into reliable, low-latency software signals.
+  
+- **AI-Powered RAW Image Processing Application**  
+  Desktop application built with Python, Flet, SQLite, and Gemini AI for RAW image editing, enhancement suggestions, image processing, and export workflows.
 
 I'm always interested in learning new tools, improving system reliability, and building practical software solutions at the intersection of data and systems.
